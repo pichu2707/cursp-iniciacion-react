@@ -6,3 +6,14 @@ Viendo el código se debería intuir la las acciones que hemos realizado, aún a
 
 ## Cómo ver el código
 Para la visualización del código debemos abrir un servidor local que ser hace escribiendo en la terminal o consola ```npm run dev``` en el caso de que lo hayas hecho con npm.
+
+## Puntos que hemos visto
+
+* Exposiciones sobre los componentes
+* Creación de componentes (Functional Components)
+* Propiedades - Props
+* Impresiones en el HTML
+* PropTypes
+* DefaultProps
+* Introducción general a los Hooks
+* useState
