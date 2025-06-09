@@ -1,4 +1,5 @@
 
-function getSaludo(nombre) {
-    return 'Hola ' + nombre;
+export function getSaludo(nombre) {
+    return 'Hola ' + nombre + "!!!!";
 }
+

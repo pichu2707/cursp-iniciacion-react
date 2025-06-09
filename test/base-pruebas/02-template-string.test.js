@@ -7,6 +7,6 @@ describe('Prueba 02-template-string', () => {
         const name = 'Fernando';
         const saludo = getSaludo( name );
 
-        expect(saludo).toBe(`Hola ${ name }`);
+        expect(saludo).toBe(`Hola ${ name }!!!!`);
     });
  })
